@@ -1,0 +1,23 @@
+<table class="table">
+    <thead>
+        <tr>
+    <th scope="col">firstName</th>
+    <th scope="col">lastName</th>
+    <th scope="col">email</th>
+    <th scope="col">dob</th>
+    <th scope="col">phone</th>
+   
+</tr>
+</thead>
+
+<tbody>
+    <tr *ngFor=" let row of employeeData">
+        <td>{{row.firstName}}</td>
+        <td>{{row.lastName}}</td>
+        <td>{{row.email}}</td>
+        <td>{{row.dob}}</td>
+        <td>{{row.phone}}</td>
+       
+    </tr>
+</tbody>
+</table>

@@ -1,0 +1,247 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "",
+      "firstName": "satyam",
+      "lastName": "kumar",
+      "dob": "2022-06-11",
+      "email": "satyam@gmail.com",
+      "phone": 45645656756,
+      "password": "xdf,kbdfxhkbg",
+      "id": 2
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "title": "",
+      "firstName": "sdfj",
+      "lastName": "sdfklfm",
+      "dob": "2022-06-07",
+      "email": "sdf.ndf",
+      "phone": 5675675,
+      "password": "656757575",
+      "id": 9
+    },
+    {
+      "title": "",
+      "firstName": "djkgjnjdkfg",
+      "lastName": "jsdjfdnk",
+      "dob": "2022-06-30",
+      "email": "sldjcn@gmail.com",
+      "phone": 37545674,
+      "password": "slfndlkjgnd;",
+      "id": 10
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "title": "",
+      "firstName": "lasdkfn",
+      "lastName": "sa;dfn;o",
+      "dob": "2022-06-24",
+      "email": "dfklvnd@gmail.com",
+      "phone": 95769598,
+      "password": "salkjdnflsdrkng",
+      "id": 14
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "title": "",
+      "firstName": "cbmn",
+      "lastName": "rltfhknjfl",
+      "dob": "2022-06-10",
+      "email": "fbjbb@gmail.com",
+      "phone": 45657568,
+      "password": "dfghflghm/v",
+      "id": 20
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 21
+    },
+    {
+      "title": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 22
+    },
+    {
+      "firstName": "elrtjhelr",
+      "lastName": ";odojfth",
+      "dob": "2022-06-24",
+      "email": "kdlfjgn@gmail.com",
+      "phone": 4680750675,
+      "password": "dfdgfgldfm",
+      "id": 23
+    },
+    {
+      "firstName": ";erj",
+      "lastName": "/dkglm",
+      "dob": "2022-06-22",
+      "email": "dg/kmm@gmail.com",
+      "phone": 4865,
+      "password": "cghfgh",
+      "id": 24
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
